@@ -1,8 +1,8 @@
 #pragma once
 #include <string>
 #include <WinSock2.h>
-#include "ThreadController.h"
-#include "SafeQueue.h"
+#include "ThreadController/ThreadController.h"
+#include "SafeQueue/SafeQueue.h"
 #pragma comment(lib, "ws2_32.lib")
 class SocketController
 {
