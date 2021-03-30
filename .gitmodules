@@ -1,0 +1,6 @@
+[submodule "ThreadController"]
+	path = ThreadController
+	url = https://github.com/Coolava/ThreadController
+[submodule "SafeQueue"]
+	path = SafeQueue
+	url = https://github.com/Coolava/SafeQueue
